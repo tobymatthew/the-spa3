@@ -1,4 +1,5 @@
 import AboutSection from "@/components/about-section";
+import { FooterComponent } from "@/components/footer";
 import { GallerySectionComponent } from "@/components/gallery-section";
 import { HeaderComponent } from "@/components/header";
 
@@ -14,6 +15,7 @@ export default function Home() {
     <AboutSection/>
     <GallerySectionComponent/>
     <TestimonialSectionComponent/>
+    <FooterComponent/>
   </div>
   );
 }

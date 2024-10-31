@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 export default function AboutSection() {
   return (
-    <section className="py-16 bg-white relative overflow-hidden">
+    <section className="py-16 relative overflow-hidden">
       <div className="container mx-auto px-4 flex flex-col lg:flex-row items-center">
         {/* Decorative elements */}
         <div className="absolute top-0 left-0 w-16 h-16">

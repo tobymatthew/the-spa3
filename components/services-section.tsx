@@ -15,7 +15,7 @@ const services = [
 
 export function ServicesSectionComponent() {
   return (
-    <section className="py-16 bg-white">
+    <section className="py-16">
       <div className="container mx-auto px-4">
         {/* Service Icons */}
         <div className="grid grid-cols-4 md:grid-cols-8 gap-8 mb-16">

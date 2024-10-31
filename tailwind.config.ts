@@ -62,6 +62,12 @@ const config: Config = {
         },
         'main-primary':'#C47F38',
         'main-secondary':'#EBDED4',
+        'warm-beige' :'#E8D9C7',
+        'dark-brown' :'#5A4633',
+        'gold' :'#D4A557',
+        'muted-Peach': '#B6754F',
+        'soft-white' :'#F9F5F2'
+
       },
       keyframes: {
         'accordion-down': {

@@ -32,7 +32,7 @@ export function GallerySectionComponent() {
   const [showAfter, setShowAfter] = useState(false)
 
   return (
-    <section className="py-16 bg-gray-50">
+    <section className="py-16">
       <div className="container mx-auto px-4">
         <h2 className="text-3xl font-serif text-center text-gray-800 mb-12">Transformative Results</h2>
         
